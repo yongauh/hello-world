@@ -1,4 +1,6 @@
 # matutil.py
+# Copyright: Yong Y. Auh
+# 
 """
 Matrices and vectors are represented as numpy.ndarray.
 
